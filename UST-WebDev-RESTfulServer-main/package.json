@@ -1,0 +1,30 @@
+{
+    "name": "restful-webserver",
+    "version": "0.0.0",
+    "description": "RESTful webserver",
+    "author": {
+        "name": "Anshul Bharath",
+        "email": "Anshul.Bharath@gmail.com"
+    },
+    "contributors": [
+        {
+            "name": "Ben Elliott",
+            "email": "elli9025@stthomas.edu"
+        },
+        {
+            "name": "Daniel Bielejeski",
+            "email": "biel9436@stthomas.edu"
+        }
+    ],
+    "main": "server.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/anshulBharath/UST-WebDev-RESTfulServer"
+    },
+    "dependencies": {
+        "axios": "^0.24.0",
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "sqlite3": "^5.0.2"
+    }
+}
