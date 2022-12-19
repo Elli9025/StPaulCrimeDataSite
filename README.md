@@ -1,2 +1,2 @@
 # StPaulCrimeDataSite
-StPaulCrimeDataSite
+My final project for Web Dev was creating a website and API that displays a map with crime information in St. Paul. This was a group project with a final presentation so it really improved my collobaration and organization skills. I also learned a ton from one of my classmates about GIT which made this project very crucial to my development as a software engineer. This project also helped me an insane amount for my internship in the following summer in which I used my knowledge gained from this project to learn angular at my job and create web pages with very similar features to the project.
